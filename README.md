@@ -10,12 +10,13 @@
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://www.geeksforgeeks.org/user/gyan_vardhan51/)
 
 
-### A little about me...  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNnYjd0OXRiaTRmc256Y24wajl6ZXo5NHQ1M29zOGQzYnZmdDI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3VvDvnVQ94wTjTPBa/giphy.gif" width="50"> 
+### A little about me...  
 I'm a **Grad Student🎓** at **[VIT Bhopal University](https://vitbhopal.ac.in/)** pursuing B.Tech in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/>
 - Check my [Resume](https://github.com/TheNoob51/Resume/blob/main/Gyan_Vardhan_Resume.pdf)
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNnYjd0OXRiaTRmc256Y24wajl6ZXo5NHQ1M29zOGQzYnZmdDI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3VvDvnVQ94wTjTPBa/giphy.gif" width="175">
+</div>
 <br/>
-
-
 
 <!-- ## ⚡️ A Few Quick Facts
 
@@ -49,11 +50,11 @@ I'm a **Grad Student🎓** at **[VIT Bhopal University](https://vitbhopal.ac.in/
 <code><img height="30" src="https://avatars.githubusercontent.com/u/34455048"></code>
 
 ### 🚀 Quick Stats
-<p align="center">
+<div align="center">
 <img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=TheNoob51&show_icons=true&line_height=21&theme=react" alt="Gyan's Github Stats" />
 <!-- <img width="340" height="155" align="center" 
      src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p>
+</div>
 
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
