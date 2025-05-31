@@ -6,12 +6,11 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/TheNoob51) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://leetcode.com/u/gyanvardhan2002/)
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/profile/gyanvardhan2002)
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)]() -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:gyanv.official@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://www.geeksforgeeks.org/user/gyan_vardhan51/)
 
 
-### A little about me...  <img src="https://tenor.com/bpOG6.gif" width="50"> 
+### A little about me...  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNnYjd0OXRiaTRmc256Y24wajl6ZXo5NHQ1M29zOGQzYnZmdDI3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3VvDvnVQ94wTjTPBa/giphy.gif" width="50"> 
 I'm a **Grad Student🎓** at **[VIT Bhopal University](https://vitbhopal.ac.in/)** pursuing B.Tech in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/>
 - Check my [Resume](https://github.com/TheNoob51/Resume/blob/main/Gyan_Vardhan_Resume.pdf)
 <br/>
@@ -74,7 +73,7 @@ I'm a **Grad Student🎓** at **[VIT Bhopal University](https://vitbhopal.ac.in/
 </details> -->
 
 
-
+<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/hemanth-kollipara)]() -->
 <!--
 **Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
